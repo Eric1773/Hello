@@ -1,0 +1,25 @@
+Muse headband data collection protocol:
+
+Preparation: 
+1. Ensure Muse 2 Headband has at full charge/ battery
+2. Wipe the surface electrode pads with a soft cloth to remove debris
+3. Clean participants forehead and behind-ear areas to remove excess body oils as well as any makeup
+4. Ensure long hair is moved away from electrode contact points 
+
+Placement: 
+5. Place headband on forehead approx. 1cm above the eyebrows. 
+6. Ensure the rear sensors are snug and tight behind the ears
+
+Signal Verification: 
+7. Connect Muse to the 'Muse Connect' application and ensure their is stable connection 
+
+During Recording:
+8. Do not make unnecessary movements during the data collection process. Do not adjust headband after it's set in place 
+
+After Use:
+9. Remove headband carefully 
+10. Wipe down the electrodes using a soft cloth
+11. Charge headband fully 
+12. Store in the protective case
+
+ 
